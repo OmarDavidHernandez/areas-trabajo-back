@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "64c86d419d9d65e6c6596a88"
+  },
+  "nombre": "Av 6 El Centro: Oficina",
+  "capacidad": 6,
+  "imagen": "/uploads/1690856769320.jpg",
+  "ubicacion": "9.247799,-70653254"
+},
+{
+  "_id": {
+    "$oid": "64c86da59d9d65e6c6596a8a"
+  },
+  "nombre": "El Country: Aula",
+  "capacidad": 20,
+  "imagen": "/uploads/1690856869819.jpg",
+  "ubicacion": "8.34534534,-900"
+},
+{
+  "_id": {
+    "$oid": "64c9dfdbc4b0fcb6ae8ac857"
+  },
+  "nombre": "El Hatico: Salón de Reuniones",
+  "capacidad": 15,
+  "imagen": "/uploads/1690951643683.jpg",
+  "ubicacion": "8.34534,-98.4343"
+},
+{
+  "_id": {
+    "$oid": "64cd0f3429b6206a9ed52445"
+  },
+  "nombre": "Av 6 El Centro: Aula",
+  "capacidad": 20,
+  "imagen": "/uploads/1691160372944.png",
+  "ubicacion": "9.247799,-70653254"
+},
+{
+  "_id": {
+    "$oid": "64cd0f9829b6206a9ed5244b"
+  },
+  "nombre": "Av 6 El Centro: Salón de Reuniones",
+  "capacidad": 15,
+  "imagen": "/uploads/1691160472377.jpeg",
+  "ubicacion": "9.247799,-70653254"
+},
+{
+  "_id": {
+    "$oid": "64cd102b29b6206a9ed52451"
+  },
+  "nombre": "El Country: Oficina",
+  "capacidad": 6,
+  "imagen": "/uploads/1691160619221.jpg",
+  "ubicacion": "8.34534534,-900\t"
+},
+{
+  "_id": {
+    "$oid": "64cd105a29b6206a9ed52457"
+  },
+  "nombre": "El Country: Salón de Reuniones",
+  "capacidad": 15,
+  "imagen": "/uploads/1691160666571.jpg",
+  "ubicacion": "8.34534534,-900"
+},
+{
+  "_id": {
+    "$oid": "64cd10b529b6206a9ed52461"
+  },
+  "nombre": "El Hatico: Aula",
+  "capacidad": 20,
+  "imagen": "/uploads/1691160757631.jpg",
+  "ubicacion": "8.34534,-98.4343"
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "64bdefe819c79de3fd3115a8"
+  },
+  "nombre": "Omar Hernández",
+  "correo": "omar@gmail.com",
+  "password": "$2a$08$zICavGIKAvGI2cakFc8oleXNrAvOiOvbcIewpA2qknE66EWxpScCK",
+  "rol": "admin"
+},
+{
+  "_id": {
+    "$oid": "64bdf66ba92f3963b5653cb2"
+  },
+  "nombre": "Sergio Gonzalez",
+  "correo": "sergio@gmail.com",
+  "password": "$2a$08$5FFvjzH1ufHwNNYf4x7jvu6STQOP/EXBsgW5fT58/GY1dMY6qJrdu",
+  "rol": "admin"
+},
+{
+  "_id": {
+    "$oid": "64c9c2df06f69c0719291a5f"
+  },
+  "nombre": "Luis Fernando",
+  "correo": "luis@gmail.com",
+  "password": "$2a$08$fLR4MPVHq9JzcQV1QJkOG.3rsUn/.PrXJot6GmFhlEs5kbFXQ2OV6",
+  "rol": "user"
+},
+{
+  "_id": {
+    "$oid": "64c9e04cc4b0fcb6ae8ac86d"
+  },
+  "nombre": "Cesar Hernández",
+  "correo": "cesar@gmail.com",
+  "password": "$2a$08$FNwiY4a2vco/CzgJ1m2nUuvVo77jSRdRPnCfCUXyr.kj3FbQ26zdy",
+  "rol": "user"
+}]

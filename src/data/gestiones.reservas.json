@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "64c9c5e2fec9f59edce9f537"
+  },
+  "espacio": "Av 6 El Centro: Oficina",
+  "espacio_id": "64c86d419d9d65e6c6596a88",
+  "usuario": "Luis Fernando",
+  "usuario_id": "64c9c2df06f69c0719291a5f",
+  "fecha": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "descripcion": "Para una reunión en mi empresa"
+},
+{
+  "_id": {
+    "$oid": "64c9cdd94927963e54194caa"
+  },
+  "espacio": "El Country: Aula",
+  "espacio_id": "64c86da59d9d65e6c6596a8a",
+  "usuario": "Cesar Hernández",
+  "usuario_id": "64c9e04cc4b0fcb6ae8ac86d",
+  "fecha": {
+    "$date": "2023-08-03T00:00:00.000Z"
+  },
+  "descripcion": "Una clase de Liderazgo en la Empresa"
+},
+{
+  "_id": {
+    "$oid": "64cc5f63defa1883dccc2005"
+  },
+  "espacio": "El Hatico: Salón de Reuniones",
+  "espacio_id": "64c9dfdbc4b0fcb6ae8ac857",
+  "usuario": "Luis Fernando",
+  "usuario_id": "64c9c2df06f69c0719291a5f",
+  "fecha": {
+    "$date": "2023-08-05T00:00:00.000Z"
+  },
+  "descripcion": "Para una reunión de estrategia junto a mis compañeros "
+}]
